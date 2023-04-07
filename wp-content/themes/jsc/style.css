@@ -358,8 +358,11 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	padding: 50px 0px;
 	background: #000;
 	color: #fff;
+	
   }
-  
+  footer {
+    
+}
   .footer-section {
 	position: relative;
   }
@@ -577,5 +580,8 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	.about-team .image-items img {
 	  width: 50%;
   }
+  }
+  .error-404.not-found {
+	text-align: center;
   }
   
